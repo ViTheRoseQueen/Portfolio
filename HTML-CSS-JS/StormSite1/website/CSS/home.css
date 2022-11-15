@@ -1,0 +1,172 @@
+body{
+    background-color: black;
+    color: black;
+    -webkit-text-stroke: 1px red;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  
+  .mission{
+    margin: 100px;
+    color: black;
+    -webkit-text-stroke: 1px red;
+  }
+  
+  hr{
+    height: 3px;
+    background-color: black;
+    border: none;
+  }
+  
+  .column {
+    float: left;
+    margin: auto;
+    padding: 2.5%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+  }
+  
+
+  /* Three columns side by side */
+  .column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 0px;
+  }
+  
+  /* Display the columns below each other instead of side by side on small screens */
+  @media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+  }
+  
+  .card {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  /* Some left and right padding inside the container */
+  .container {
+  padding: 0 12px;
+  margin-left: auto;
+  display: block;
+  margin-right: auto;
+  }
+  
+  /* Clear floats */
+  .container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+  }
+  
+  .title {
+  color: black;
+  }
+  
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .search-bar{
+    border: 2px red solid;
+    color: red;
+    background-color: #333;
+  }
+  
+  .nav-links{
+    color: red
+  }
+  
+  .rednexuslogo{
+    margin-top: none;
+  }
+  
+  img.hover{
+    background-color: black;
+  }
+  
+  .center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .GlowStorm{
+      display: block;
+      margin: auto;
+      height: auto;
+      width: auto;
+      padding: auto;
+      margin-left: auto;
+      max-width: 90%
+  }
+
+  .left{
+    float: left;
+  }
+
+  #back-to-top {
+    position: fixed;
+    bottom: 3em;
+    right: 3em;
+    background-color: red;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 700;
+    box-shadow: 0 0 2em 0 rgba(0, 0, 0, .25);
+    transition: all .3s ease-in-out;
+    display: inline-block;
+    opacity: 0;
+    text-decoration: none;
+    font-size: .75em;
+}
+
+    #back-to-top:hover {
+        background-color: black;
+        color: red;
+        padding: 1em 3em;
+    }
+
+#back-to-top.visible {
+    opacity: 1;
+}
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #333; /* Set a background color */
+  color: red; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
