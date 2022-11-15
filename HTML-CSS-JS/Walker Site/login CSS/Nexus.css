@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: black;
+    -webkit-text-stroke: 1px red;
+}
+
+.rn-login-boxes {
+    color: cyan;
+    background-color: #333;
+    border: 1px red solid;
+}
+
+.rn-submit-button{
+    background-color: #333;
+    border: 1px red solid;
+}
+
+.RN-Logo{
+    display: block;
+    margin-left: 39%;
+    margin-right: 25%;
+}
