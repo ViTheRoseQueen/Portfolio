@@ -1,4 +1,5 @@
 //This Code is Michael Reeves' This is copied from his videos on C#. All Rights go to Mykul. 
+using System;
 
 namespace Meme
 {
@@ -6,7 +7,8 @@ namespace Meme
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello Memes");
         }
     }
 }
