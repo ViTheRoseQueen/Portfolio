@@ -9,6 +9,13 @@ namespace Meme
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello Memes");
+
+            int x = 69;
+
+            x = 100;
+
+            Console.WriteLine(x);
+
         }
     }
 }
