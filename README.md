@@ -4,3 +4,4 @@ This Repo has every project ive ever worked on. More of an archive really. but t
 
 https://discord.gg/yf7J3P7BmH
 
+All Python files were done with tutorials from various sources
