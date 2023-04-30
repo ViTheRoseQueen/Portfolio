@@ -7,168 +7,168 @@ echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 膊膊膊膊膊膊膊膊膊膊 1%%
+echo Progress: ---------- 1%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 鄄膊膊膊膊膊膊膊膊膊 2%%
+echo Progress: ---------- 2%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 鄄膊膊膊膊膊膊膊膊膊 3%%
+echo Progress: ---------- 3%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹膊膊膊膊膊膊膊膊膊 10%%
+echo Progress: []--------- 10%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹鄄膊膊膊膊膊膊膊膊 15%%
+echo Progress: []--------- 15%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹膊膊膊膊膊膊膊膊 20%%
+echo Progress: [][]-------- 20%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹鄄膊膊膊膊膊膊膊 25%%
+echo Progress: [][]-------- 25%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹膊膊膊膊膊膊膊 30%%
+echo Progress: [][][]------- 30%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹鄄膊膊膊膊膊膊 35%%
+echo Progress: [][][]------- 35%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹膊膊膊膊膊膊 40%%
+echo Progress: [][][][]------ 40%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹鄄膊膊膊膊膊 45%%
+echo Progress: [][][][]------ 45%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹圹膊膊膊膊膊 50%%
+echo Progress: [][][][][]----- 50%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 pause
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹圹鄄膊膊膊膊 55%%
+echo Progress: [][][][][]----- 55%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹圹圹膊膊膊膊 60%%
+echo Progress: [][][][][][]---- 60%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹圹圹鄄膊膊膊 65%%
+echo Progress: [][][][][][]---- 65%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹圹圹圹膊膊膊 70%%
+echo Progress: [][][][][][][]--- 70%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹圹圹圹圹膊膊 80%%
+echo Progress: [][][][][][][][]-- 80%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: [][][][][][][][]00 85%%
+echo Progress: [][][][][][][][]-- 85%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: [][][][][][][][][]0 90%%
+echo Progress: [][][][][][][][][]- 90%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹圹圹圹圹圹鄄 95%%
+echo Progress: [][][][][][][][][]- 95%%
 echo ----------------------------------
-ping -n 10 localhost >nul
+ping -n 5 localhost >nul
 cls
 echo.
 echo.
 echo INITIALIZING...
 echo ----------------------------------
-echo Progress: 圹圹圹圹圹圹圹圹圹圹 100%%
+echo Progress: [][][][][][][][][][] 50%%
 echo ----------------------------------
 GOTO END
 :END
@@ -177,7 +177,7 @@ echo.
 echo.
 echo STARTUP COMPLETE...
 echo ----------------------------------
-echo Progress: [][][][][][][][][][] 100%%
+echo Progress: [][][][][][][][][][] 50%%
 echo.
 echo.
 cls 
